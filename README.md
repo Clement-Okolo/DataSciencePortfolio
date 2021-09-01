@@ -7,3 +7,7 @@ This is a collection of selected data science projects to demonstrate skill sets
 Visualization
 
 **Machine Learning with Python**: Examples of executing ML tasks such as Regression, Classification, Clustering, Recommender Systems
+# In-Progress
+**The movement of old projects into this repository**
+**New and on-going projects**
+
