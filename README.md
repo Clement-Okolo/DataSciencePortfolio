@@ -8,6 +8,7 @@ Visualization
 
 **Machine Learning with Python**: Examples of executing ML tasks such as Regression, Classification, Clustering, Recommender Systems
 # In-Progress
-**The movement of old projects into this repository**
-**New and on-going projects**
+**The movement of old projects into this repository**: Data Analysis with python, Data Visualization with Python
+
+**New and on-going projects**: Machine Learning with Python
 
